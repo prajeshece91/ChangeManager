@@ -23,23 +23,39 @@
          <propTab>Annex</propTab>
          <secKey>sml</secKey>
          <optionKey>uninstall</optionKey>
-         <applyValue>Test</applyValue>
+         <applyValue>dfg</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
        <Change_Details>
          <objectType>Application</objectType>
          <propTab>Annex</propTab>
          <secKey>sml</secKey>
-         <optionKey>111</optionKey>
-         <applyValue>Test</applyValue>
+         <optionKey>uninstall</optionKey>
+         <applyValue>dfg</applyValue>
          <actionType>Modify</actionType>
+      </Change_Details>
+       <Change_Details>
+         <objectType>Application</objectType>
+         <propTab>Annex</propTab>
+         <secKey>sml</secKey>
+         <optionKey>uninstalsdfl</optionKey>
+         <applyValue>Testsdf</applyValue>
+         <actionType>add</actionType>
+      </Change_Details>
+       <Change_Details>
+         <objectType>Application</objectType>
+         <propTab>Annex</propTab>
+         <secKey>sml</secKey>
+         <optionKey>111sd</optionKey>
+         <applyValue>Testsfd</applyValue>
+         <actionType>add</actionType>
       </Change_Details>
        <Change_Details>
          <objectType>Application</objectType>
          <propTab>Annex</propTab>
          <secKey>sml</secKey>
          <optionKey>123</optionKey>
-         <applyValue>Test</applyValue>
+         <applyValue>Tdfgest</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
    </CR_Detail>
