@@ -26,6 +26,22 @@
          <applyValue>Test</applyValue>
          <actionType>Modify</actionType>
       </Change_Details>
+       <Change_Details>
+         <objectType>Application</objectType>
+         <propTab>Annex</propTab>
+         <secKey>sml</secKey>
+         <optionKey>111</optionKey>
+         <applyValue>Test</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+       <Change_Details>
+         <objectType>Application</objectType>
+         <propTab>Annex</propTab>
+         <secKey>sml</secKey>
+         <optionKey>123</optionKey>
+         <applyValue>Test</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
    </CR_Detail>
    <EmailNotification></EmailNotification>
    <ApplyNotes></ApplyNotes>
