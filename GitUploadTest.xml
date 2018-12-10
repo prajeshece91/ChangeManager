@@ -1,0 +1,27 @@
+<XML>
+   <CR_Detail>
+      <number>CR18344202329</number>
+      <title>GIT_Demo</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>jMiller</createdName>
+      <description>demo</description>
+      <plannedTime>2018-12-11 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServerTest11</objectName>
+         <propTab>Annex</propTab>
+         <secKey>sml</secKey>
+         <optionKey>uninstall</optionKey>
+         <currValue>&quot;C:\Program Files\InstallShield Installation Information\{BE0DD7D2-6485-4978-8284-78FDF830854E}\setup.exe&quot; /s /f1&quot;C:\Program Files\InstallShield Installation Information\{BE0DD7D2-6485-4978-8284-78FDF830854E}\internal_uninst.iss&quot; /f2&quot;C:\Program Files\InstallShield Installation Information\{BE0DD7D2-6485-4978-8284-78FDF830854E}\is_uninst.log&quot; /z&quot;-t 'C:\Program Files\InstallShield Installation Information\{BE0DD7D2-6485-4978-8284-78FDF830854E}\GENESYS_INSTALLATION.LOG' -x&quot;</currValue>
+         <applyValue>Test</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
