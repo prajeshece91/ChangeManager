@@ -58,6 +58,48 @@
                 <ActionType>Add</ActionType>
             </Changes>
         </Change_Details>
+         <Change_Details>
+            <dev>
+                <ObjectName>TServer_AvayaTest</ObjectName>
+                <ObjectType>Application</ObjectType>
+            </dev>
+            <stg>
+                <ObjectName>TServer_AvayaTest</ObjectName>
+                <ObjectType>Application</ObjectType>
+            </stg>
+            <prod>
+                <ObjectName>TServer_AvayaTest</ObjectName>
+                <ObjectType>Application</ObjectType>
+            </prod>
+            <Changes>
+                <Tab>Annex</Tab>
+                <Section>sml</Section>
+                <Key>uninstall</Key>
+                <Value>Test</Value>
+                <ActionType>Modify</ActionType>
+            </Changes>
+            <Changes>
+                <Tab>Annex</Tab>
+                <Section>demo</Section>
+                <Key>test</Key>
+                <Value>val</Value>
+                <ActionType>Add</ActionType>
+            </Changes>
+            <Changes>
+                <Tab>Annex</Tab>
+                <Section>sml2</Section>
+                <Key>Test</Key>
+                <Value>Test</Value>
+                <ActionType>Add</ActionType>
+            </Changes>
+            <Changes>
+                <Tab>Annex</Tab>
+                <Section>sml</Section>
+                <Key>uninstal1111</Key>
+                <Value>Testing</Value>
+                <ActionType>Add</ActionType>
+            </Changes>
+        </Change_Details>
      </CR_Detail>
     <EmailNotification>yuvaraj.boopathy@pointelsolutions.com;karthi@pointelsolutions.com</EmailNotification>
     <ApplyNotes>CR Applied</ApplyNotes>
