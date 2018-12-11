@@ -18,22 +18,22 @@
         </prod>
         <Change_Details>
             <dev>
-                <ObjectName>Email</ObjectName>
+                <ObjectName>dev_RoutePath</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>Email</ObjectName>
+                <ObjectName>stg_RoutePath</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>Email</ObjectName>
+                <ObjectName>prd_RoutePath</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>userdata</Section>
-                <Key>key1</Key>
-                <Value>Test</Value>
+                <Key>RoutePoint</Key>
+                <Value>9000</Value>
                 <ActionType>Add</ActionType>
             </Changes>
             <Changes>
@@ -54,22 +54,22 @@
         </Change_Details>
          <Change_Details>
             <dev>
-                <ObjectName>Voice</ObjectName>
+                <ObjectName>dev_VoiceMail</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>Voice</ObjectName>
+                <ObjectName>stg_VoiceMail</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>Voice</ObjectName>
+                <ObjectName>prd_VoiceMail</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>userdata</Section>
-                <Key>key1</Key>
-                <Value>Test</Value>
+                <Key>Benefits</Key>
+                <Value>2100</Value>
                 <ActionType>Add</ActionType>
             </Changes>
             <Changes>
@@ -89,5 +89,5 @@
         </Change_Details>
      </CR_Detail>
     <EmailNotification>yuvaraj.boopathy@pointelsolutions.com;karthi@pointelsolutions.com</EmailNotification>
-    <ApplyNotes>CR Applied</ApplyNotes>
+    <ApplyNotes>Sprint 5 Genesys Changes Applied</ApplyNotes>
 </XML>
