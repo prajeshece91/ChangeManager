@@ -40,7 +40,7 @@
                 <Section>sml</Section>
                 <Key>uninstall2</Key>
                 <Value>Test</Value>
-                <ActionType>Add</ActionType>
+                <ActionType>Modify</ActionType>
             </Changes>
         </Change_Details>
     </CR_Detail>
