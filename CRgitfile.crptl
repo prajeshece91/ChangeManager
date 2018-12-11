@@ -34,29 +34,23 @@
                 <Section>userdata</Section>
                 <Key>key1</Key>
                 <Value>Test</Value>
-                <ActionType>Modify</ActionType>
+                <ActionType>Add</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>demo</Section>
                 <Key>test</Key>
                 <Value>val</Value>
-                <ActionType>Add</ActionType>
+                <ActionType>Delete</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>target-format</Section>
                 <Key>agent</Key>
-                <Value>jMiller@Stat_Server.A</Value>
+                <Value>Lee@Stat_Server.A</Value>
                 <ActionType>Modify</ActionType>
             </Changes>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>sml</Section>
-                <Key>uninstal1111</Key>
-                <Value>Testing</Value>
-                <ActionType>Add</ActionType>
-            </Changes>
+            
         </Change_Details>
          <Change_Details>
             <dev>
@@ -73,31 +67,24 @@
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>sml</Section>
-                <Key>uninstall</Key>
+                <Section>userdata</Section>
+                <Key>key1</Key>
                 <Value>Test</Value>
-                <ActionType>Modify</ActionType>
+                <ActionType>Add</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>demo</Section>
                 <Key>test</Key>
                 <Value>val</Value>
-                <ActionType>Add</ActionType>
+                <ActionType>Delete</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>sml2</Section>
-                <Key>Test</Key>
-                <Value>Test</Value>
-                <ActionType>Add</ActionType>
-            </Changes>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>sml</Section>
-                <Key>uninstal1111</Key>
-                <Value>Testing</Value>
-                <ActionType>Add</ActionType>
+                <Section>target-format</Section>
+                <Key>agent</Key>
+                <Value>Lee@Stat_Server.A</Value>
+                <ActionType>Modify</ActionType>
             </Changes>
         </Change_Details>
      </CR_Detail>
