@@ -33,22 +33,22 @@
                 <Tab>Annex</Tab>
                 <Section>sml</Section>
                 <Key>uninstall</Key>
-                <Value>Test</Value>
+                <Value>Tes232t</Value>
                 <ActionType>Modify</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>sml</Section>
+                <Section>sml111</Section>
                 <Key>uninstall2</Key>
                 <Value>Test</Value>
-                <ActionType>Delete</ActionType>
+                <ActionType>Add</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>sml</Section>
                 <Key>uninstall213132</Key>
                 <Value>Test</Value>
-                <ActionType>Add</ActionType>
+                <ActionType>Delete</ActionType>
             </Changes>
         </Change_Details>
     </CR_Detail>
