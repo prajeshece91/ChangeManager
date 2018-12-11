@@ -1,1 +1,50 @@
 
+<XML>
+    <CR_Detail>
+        <dev>
+            <Host>192.168.200.210</Host>
+            <Port>2020</Port>
+            <ClientName>default</ClientName>
+        </dev>
+        <stg>
+            <Host>192.122.200.207</Host>
+            <Port>2020</Port>
+            <ClientName>default</ClientName>
+        </stg>
+        <prod>
+            <Host>192.144.200.542</Host>
+            <Port>2020</Port>
+            <ClientName>default</ClientName>
+        </prod>
+        <Change_Details>
+            <dev>
+                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectType>Application</ObjectType>
+            </dev>
+            <stg>
+                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectType>Application</ObjectType>
+            </stg>
+            <prod>
+                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectType>Application</ObjectType>
+            </prod>
+            <Changes>
+                <Tab>Annex</Tab>
+                <Section>sml</Section>
+                <Key>uninstall</Key>
+                <Value>Test</Value>
+                <ActionType>Modify</ActionType>
+            </Changes>
+            <Changes>
+                <Tab>Annex</Tab>
+                <Section>sml</Section>
+                <Key>uninstall2</Key>
+                <Value>Test</Value>
+                <ActionType>Modify</ActionType>
+            </Changes>
+        </Change_Details>
+    </CR_Detail>
+    <EmailNotification>yuvaraj.boopathy@pointelsolutions.com;karthi@pointelsolutions.com</EmailNotification>
+    <ApplyNotes>CR Applied</ApplyNotes>
+</XML>
