@@ -41,7 +41,14 @@
                 <Section>sml</Section>
                 <Key>uninstall2</Key>
                 <Value>Test</Value>
-                <ActionType>Modify</ActionType>
+                <ActionType>Delete</ActionType>
+            </Changes>
+            <Changes>
+                <Tab>Annex</Tab>
+                <Section>sml</Section>
+                <Key>uninstall213132</Key>
+                <Value>Test</Value>
+                <ActionType>Add</ActionType>
             </Changes>
         </Change_Details>
     </CR_Detail>
