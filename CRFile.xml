@@ -17,27 +17,27 @@
         </prod>
         <Change_Details>
             <dev>
-                <objectName>NortelTServerTest1</objectName>
-                <objectType>Application</objectType>
+                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectType>Application</ObjectType>
             </dev>
             <stg>
-                <objectName>NortelTServerTest1</objectName>
-                <objectType>Application</objectType>
+                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectType>Application</ObjectType>
             </stg>
             <prod>
-                <objectName>NortelTServerTest1</objectName>
-                <objectType>Application</objectType>
+                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectType>Application</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
-                <section>sml</section>
+                <Section>sml</Section>
                 <Key>uninstall</Key>
                 <Value>Test</Value>
                 <actionType>Modify</actionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
-                <section>sml</section>
+                <Section>sml</Section>
                 <Key>uninstall</Key>
                 <Value>Test</Value>
                 <actionType>Modify</actionType>
