@@ -38,6 +38,13 @@
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
+                <Section>demo</Section>
+                <Key>test</Key>
+                <Value>val</Value>
+                <ActionType>Add</ActionType>
+            </Changes>
+            <Changes>
+                <Tab>Annex</Tab>
                 <Section>sml2</Section>
                 <Key>Test</Key>
                 <Value>Test</Value>
