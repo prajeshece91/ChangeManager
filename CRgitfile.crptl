@@ -18,15 +18,15 @@
         </prod>
         <Change_Details>
             <dev>
-                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectName>TServer_Nortel_TTT</ObjectName>
                 <ObjectType>Application</ObjectType>
             </dev>
             <stg>
-                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectName>TServer_Nortel_TTT</ObjectName>
                 <ObjectType>Application</ObjectType>
             </stg>
             <prod>
-                <ObjectName>NortelTServerTest1</ObjectName>
+                <ObjectName>TServer_Nortel_TTT</ObjectName>
                 <ObjectType>Application</ObjectType>
             </prod>
             <Changes>
