@@ -18,21 +18,21 @@
         </prod>
         <Change_Details>
             <dev>
-                <ObjectName>TServer_Nortel_TTT</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Email</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>TServer_Nortel_TTT</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Email</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>TServer_Nortel_TTT</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Email</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>sml</Section>
-                <Key>uninstall</Key>
+                <Section>userdata</Section>
+                <Key>key1</Key>
                 <Value>Test</Value>
                 <ActionType>Modify</ActionType>
             </Changes>
@@ -45,10 +45,10 @@
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>sml2</Section>
-                <Key>Test</Key>
-                <Value>Test</Value>
-                <ActionType>Add</ActionType>
+                <Section>target-format</Section>
+                <Key>agent</Key>
+                <Value>jMiller@Stat_Server.A</Value>
+                <ActionType>Modify</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
@@ -60,16 +60,16 @@
         </Change_Details>
          <Change_Details>
             <dev>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Voice</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Voice</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Voice</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
