@@ -33,14 +33,14 @@
                 <Section>sml</Section>
                 <Key>uninstall</Key>
                 <Value>Test</Value>
-                <actionType>Modify</actionType>
+                <ActionType>Modify</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>sml</Section>
-                <Key>uninstall</Key>
+                <Key>uninstall2</Key>
                 <Value>Test</Value>
-                <actionType>Modify</actionType>
+                <ActionType>Add</ActionType>
             </Changes>
         </Change_Details>
     </CR_Detail>
