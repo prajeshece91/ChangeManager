@@ -33,12 +33,12 @@
                 <Tab>Annex</Tab>
                 <Section>sml</Section>
                 <Key>uninstall</Key>
-                <Value>dffd</Value>
+                <Value>Test</Value>
                 <ActionType>Modify</ActionType>
             </Changes>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>sml1112</Section>
+                <Section>sml2</Section>
                 <Key>Test</Key>
                 <Value>Test</Value>
                 <ActionType>Add</ActionType>
@@ -46,47 +46,12 @@
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>sml</Section>
-                <Key>uninstall21sds3132</Key>
+                <Key>uninstal1111</Key>
                 <Value>Testing</Value>
                 <ActionType>Add</ActionType>
             </Changes>
         </Change_Details>
-         <Change_Details>
-            <dev>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
-            </dev>
-            <stg>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
-            </stg>
-            <prod>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
-            </prod>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>sml</Section>
-                <Key>uninstall</Key>
-                <Value>tEST</Value>
-                <ActionType>Modify</ActionType>
-            </Changes>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>sml1112</Section>
-                <Key>Test</Key>
-                <Value>Test</Value>
-                <ActionType>Add</ActionType>
-            </Changes>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>sml</Section>
-                <Key>uninstall21sds3132</Key>
-                <Value>Testing</Value>
-                <ActionType>Add</ActionType>
-            </Changes>
-        </Change_Details>
-    </CR_Detail>
+     </CR_Detail>
     <EmailNotification>yuvaraj.boopathy@pointelsolutions.com;karthi@pointelsolutions.com</EmailNotification>
     <ApplyNotes>CR Applied</ApplyNotes>
 </XML>
