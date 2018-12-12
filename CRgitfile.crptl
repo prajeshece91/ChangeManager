@@ -2,31 +2,31 @@
 <XML>
     <CR_Detail>
         <dev>
-            <Host>192.168.200.210</Host>
+            <Host>192.168.1.178</Host>
             <Port>2020</Port>
             <ClientName>default</ClientName>
         </dev>
         <stg>
-            <Host>192.168.200.207</Host>
+            <Host>192.168.1.178</Host>
             <Port>2020</Port>
             <ClientName>default</ClientName>
         </stg>
         <prod>
-            <Host>192.168.200.206</Host>
+            <Host>192.168.1.178</Host>
             <Port>2020</Port>
             <ClientName>default</ClientName>
         </prod>
         <Change_Details>
             <dev>
-                <ObjectName>dev_RoutePath</ObjectName>
+                <ObjectName>Test_route_Params</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>stg_RoutePath</ObjectName>
+                <ObjectName>Test_route_Params</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>prd_RoutePath</ObjectName>
+                <ObjectName>Test_route_Params</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
@@ -36,33 +36,19 @@
                 <Value>9000</Value>
                 <ActionType>Add</ActionType>
             </Changes>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>demo</Section>
-                <Key>test</Key>
-                <Value>val</Value>
-                <ActionType>Delete</ActionType>
-            </Changes>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>target-format</Section>
-                <Key>agent</Key>
-                <Value>Lee@Stat_Server.A</Value>
-                <ActionType>Modify</ActionType>
-            </Changes>
-            
+                       
         </Change_Details>
          <Change_Details>
             <dev>
-                <ObjectName>dev_VoiceMail</ObjectName>
+                <ObjectName>Ent_Parameters</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>stg_VoiceMail</ObjectName>
+                <ObjectName>Ent_Parameters</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>prd_VoiceMail</ObjectName>
+                <ObjectName>Ent_Parameters</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
@@ -72,20 +58,7 @@
                 <Value>2100</Value>
                 <ActionType>Add</ActionType>
             </Changes>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>demo</Section>
-                <Key>test</Key>
-                <Value>val</Value>
-                <ActionType>Delete</ActionType>
-            </Changes>
-            <Changes>
-                <Tab>Annex</Tab>
-                <Section>target-format</Section>
-                <Key>agent</Key>
-                <Value>Lee@Stat_Server.A</Value>
-                <ActionType>Modify</ActionType>
-            </Changes>
+           
         </Change_Details>
      </CR_Detail>
     <EmailNotification>yuvaraj.boopathy@pointelsolutions.com;karthi@pointelsolutions.com</EmailNotification>
