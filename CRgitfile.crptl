@@ -18,16 +18,16 @@
         </prod>
         <Change_Details>
             <dev>
-                <ObjectName>Test_route_Params</ObjectName>
-                <ObjectType>Transaction</ObjectType>
+                <ObjectName>TServer_AvayaCM_760</ObjectName>
+                <ObjectType>Application</ObjectType>
             </dev>
             <stg>
-                <ObjectName>Test_route_Params</ObjectName>
-                <ObjectType>Transaction</ObjectType>
+                <ObjectName>TServer_AvayaCM_760</ObjectName>
+                <ObjectType>Application</ObjectType>
             </stg>
             <prod>
-                <ObjectName>Test_route_Params</ObjectName>
-                <ObjectType>Transaction</ObjectType>
+                <ObjectName>TServer_AvayaCM_760</ObjectName>
+                <ObjectType>Application</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
