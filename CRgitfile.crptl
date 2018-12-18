@@ -34,29 +34,29 @@
                 <Section>userdata</Section>
                 <Key>RoutePoint</Key>
                 <Value>9000</Value>
-                <ActionType>Add</ActionType>
+                <ActionType>Modify</ActionType>
             </Changes>
                        
         </Change_Details>
          <Change_Details>
             <dev>
                 <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Transaction</ObjectType>
+                <ObjectType>Application</ObjectType>
             </dev>
             <stg>
                 <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Transaction</ObjectType>
+                <ObjectType>Application</ObjectType>
             </stg>
             <prod>
                 <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Transaction</ObjectType>
+                <ObjectType>Application</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
                 <Section>userdata</Section>
                 <Key>Benefits</Key>
                 <Value>2100</Value>
-                <ActionType>Add</ActionType>
+                <ActionType>Modify</ActionType>
             </Changes>
            
         </Change_Details>
