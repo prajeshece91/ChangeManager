@@ -18,15 +18,15 @@
         </prod>
         <Change_Details>
             <dev>
-                <ObjectName>TServer_AvayaCM_760</ObjectName>
+                <ObjectName>TServer_Nortel_TTT</ObjectName>
                 <ObjectType>Application</ObjectType>
             </dev>
             <stg>
-                <ObjectName>TServer_AvayaCM_760</ObjectName>
+                <ObjectName>TServer_Nortel_TTT</ObjectName>
                 <ObjectType>Application</ObjectType>
             </stg>
             <prod>
-                <ObjectName>TServer_AvayaCM_760</ObjectName>
+                <ObjectName>TServer_Nortel_TTT</ObjectName>
                 <ObjectType>Application</ObjectType>
             </prod>
             <Changes>
@@ -40,15 +40,15 @@
         </Change_Details>
          <Change_Details>
             <dev>
-                <ObjectName>Ent_Parameters</ObjectName>
+                <ObjectName>TServer_AvayaTest</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>Ent_Parameters</ObjectName>
+                <ObjectName>TServer_AvayaTest</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>Ent_Parameters</ObjectName>
+                <ObjectName>TServer_AvayaTest</ObjectName>
                 <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
