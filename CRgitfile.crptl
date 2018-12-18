@@ -1,5 +1,5 @@
 <XML>
- <Version>V2.2</Version>
+ <Version>V2.3</Version>
     <CR_Detail>       
         <dev>
             <Host>192.168.200.210</Host>
@@ -33,7 +33,7 @@
                 <Tab>Annex</Tab>
                 <Section>userdata</Section>
                 <Key>RoutePoint</Key>
-                <Value>800</Value>
+                <Value>1000</Value>
                 <ActionType>Modify</ActionType>
             </Changes>
                        
@@ -55,7 +55,7 @@
                 <Tab>Annex</Tab>
                 <Section>userdata</Section>
                 <Key>Benefits</Key>
-                <Value>800</Value>
+                <Value>10000</Value>
                 <ActionType>Modify</ActionType>
             </Changes>
            
