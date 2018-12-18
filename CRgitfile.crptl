@@ -1,13 +1,13 @@
 <XML>
- <Version>V2.3</Version>
-    <CR_Detail>       
+<XML>
+    <CR_Detail>
         <dev>
-            <Host>192.168.200.210</Host>
+            <Host>192.168.1.178</Host>
             <Port>2020</Port>
             <ClientName>default</ClientName>
         </dev>
         <stg>
-            <Host>192.168.200.206</Host>
+            <Host>192.168.1.178</Host>
             <Port>2020</Port>
             <ClientName>default</ClientName>
         </stg>
@@ -18,49 +18,66 @@
         </prod>
         <Change_Details>
             <dev>
-                <ObjectName>TServer_Nortel_TTT</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Test_route_Params</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>TServer_Nortel_TTT</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Test_route_Params</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>TServer_Nortel_TTT</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Test_route_Params</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>userdata</Section>
+                <Section>18885551212</Section>
                 <Key>RoutePoint</Key>
-                <Value>1000</Value>
-                <ActionType>Modify</ActionType>
+                <Value>9000</Value>
+                <ActionType>Add</ActionType>
             </Changes>
-                       
+                     
+            <Changes>         
+		<Tab>Annex</Tab>
+		<Section>18885551212</Section>
+		<Key>DNIS</Key>
+		<Value>2100</Value>
+		<ActionType>Add</ActionType>
+            </Changes>
+            
+            <Changes>         
+		<Tab>Annex</Tab>
+		<Section>18885551212</Section>
+		<Key>Play</Key>
+		<Value>http://Appserver29.aws.com/playivr.vxml</Value>
+		<ActionType>Add</ActionType>
+            </Changes>
+            
+            
         </Change_Details>
          <Change_Details>
             <dev>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Ent_Parameters</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </dev>
             <stg>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Ent_Parameters</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </stg>
             <prod>
-                <ObjectName>TServer_AvayaTest</ObjectName>
-                <ObjectType>Application</ObjectType>
+                <ObjectName>Ent_Parameters</ObjectName>
+                <ObjectType>Transaction</ObjectType>
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>userdata</Section>
-                <Key>Benefits</Key>
-                <Value>10000</Value>
-                <ActionType>Modify</ActionType>
+                <Section>18885551212</Section>
+                <Key>eMsg</Key>
+                <Value>yes</Value>
+                <ActionType>Add</ActionType>
             </Changes>
            
         </Change_Details>
      </CR_Detail>
-    <EmailNotification>yuvaraj.boopathy@pointelsolutions.com;karthi@pointelsolutions.com</EmailNotification>
+    <EmailNotification>hari@pointel.com;karthi@pointelsolutions.com</EmailNotification>
     <ApplyNotes>Sprint 5 Genesys Changes Applied</ApplyNotes>
 </XML>
