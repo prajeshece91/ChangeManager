@@ -1,7 +1,7 @@
 <XML>
    <CR_Detail>
       <dev>
-         <Host>192.168.200.210</Host>
+         <Host>192.18.100.1</Host>
          <Port>2020</Port>
          <ClientName>default</ClientName>
       </dev>
