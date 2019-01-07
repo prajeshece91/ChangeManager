@@ -64,6 +64,7 @@
          </Changes>
        </Change_Details>
    </CR_Detail>
+   <Version>Create</Version>
    <ActionType>Create</ActionType>
    <EmailNotification>yuvaraj.boopathy@pointelsolutions.com</EmailNotification>
    <ApplyNotes>Sprint 5 Genesys Changes Applied</ApplyNotes>
