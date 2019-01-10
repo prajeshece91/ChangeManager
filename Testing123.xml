@@ -1,0 +1,27 @@
+<XML>
+   <CR_Detail>
+      <number>CR1910203167</number>
+      <title>Test123</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>jMiller</createdName>
+      <description>Test123</description>
+      <plannedTime>2019-01-10 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Annex</propTab>
+         <secKey>Test</secKey>
+         <optionKey>Password</optionKey>
+         <currValue>Testgfgfg</currValue>
+         <applyValue>Testgfgfg12313</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
