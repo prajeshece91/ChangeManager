@@ -55,13 +55,7 @@
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
          </Changes>
-           <Changes>
-            <Tab>General</Tab>
-            <Section>Type</Section>
-            <Key></Key>
-            <Value>1</Value>
-            <ActionType>Add</ActionType>
-         </Changes>
+          
        </Change_Details>
         <Change_Details>
          <dev>
@@ -103,13 +97,7 @@
             <Value>http://Appserver29.aws.com/playivr.vxml</Value>
             <ActionType>Add</ActionType>
          </Changes>
-           <Changes>
-            <Tab>General</Tab>
-            <Section>Type</Section>
-            <Key></Key>
-            <Value>1</Value>
-            <ActionType>Add</ActionType>
-         </Changes>
+          
        </Change_Details>
    </CR_Detail>
    <Version>V2.7</Version>
