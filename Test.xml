@@ -1,0 +1,37 @@
+<XML>
+   <CR_Detail>
+      <number>CR1922162684</number>
+      <title>xdd</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>jMiller</createdName>
+      <description>Test</description>
+      <plannedTime>2019-01-22 00:00:00.0</plannedTime>
+      <targetHost>192.168.200.210</targetHost>
+      <targetPort>2020</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Annex</propTab>
+         <secKey>Test</secKey>
+         <optionKey>Password</optionKey>
+         <currValue>Testgfgfg12313</currValue>
+         <applyValue>Testgfgfg12313345</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>NortelTServer@123</objectName>
+         <propTab>Annex</propTab>
+         <secKey>1</secKey>
+         <optionKey>1</optionKey>
+         <currValue>11122</currValue>
+         <applyValue>11122345</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
