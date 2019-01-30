@@ -77,6 +77,7 @@
            
         </Change_Details>
      </CR_Detail>
+     <Version>V3.3<\Version>
     <EmailNotification>hari@pointel.com;karthi@pointelsolutions.com</EmailNotification>
     <ApplyNotes>Sprint 2 Jan 2019 Genesys Changes Applied</ApplyNotes>
 </XML>
