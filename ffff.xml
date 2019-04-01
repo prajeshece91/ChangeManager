@@ -1,0 +1,136 @@
+<XML>
+   <CR_Detail>
+      <number>CR1991133920</number>
+      <title>dapplicationtemplate@1</title>
+      <environment>Staging</environment>
+      <risk>Low</risk>
+      <urgency>Low</urgency>
+      <createdName>jMiller</createdName>
+      <description>applicationtemplate@1</description>
+      <targetHost>192.168.200.207</targetHost>
+      <targetPort>2030</targetPort>
+      <targetClientName>default</targetClientName>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>General</propTab>
+         <secKey>Name</secKey>
+         <optionKey></optionKey>
+         <currValue>Application Template1</currValue>
+         <applyValue>Application Template2</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>General</propTab>
+         <secKey>Template</secKey>
+         <optionKey></optionKey>
+         <currValue>Application Template1</currValue>
+         <applyValue>Application Template1</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>General</propTab>
+         <secKey>State</secKey>
+         <optionKey></optionKey>
+         <currValue>Enabled</currValue>
+         <applyValue>Disabled</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Connections</propTab>
+         <secKey>DB Access</secKey>
+         <optionKey>Connection Protocol</optionKey>
+         <currValue>1244354</currValue>
+         <applyValue>2452452</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Connections</propTab>
+         <secKey>DB Access</secKey>
+         <optionKey>Local Timeout</optionKey>
+         <currValue>4111</currValue>
+         <applyValue>1111</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Connections</propTab>
+         <secKey>DB Access</secKey>
+         <optionKey>Remote Timeout</optionKey>
+         <currValue>1000</currValue>
+         <applyValue>111</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Connections</propTab>
+         <secKey>DB Access</secKey>
+         <optionKey>Trace Mode</optionKey>
+         <currValue>Trace Is Turned Off</currValue>
+         <applyValue>Trace On Client Side</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Annex</propTab>
+         <secKey>ffff</secKey>
+         <optionKey>test@1</optionKey>
+         <currValue>111</currValue>
+         <applyValue>0000000</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Annex</propTab>
+         <secKey>ffff</secKey>
+         <optionKey>test@111</optionKey>
+         <currValue>dsfdfdfdsf</currValue>
+         <applyValue>000000</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Annex</propTab>
+         <secKey>ffff</secKey>
+         <optionKey>dfdsf</optionKey>
+         <currValue>dsfdfd</currValue>
+         <applyValue>0000</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Annex</propTab>
+         <secKey>ffff</secKey>
+         <optionKey>21332132</optionKey>
+         <currValue>213123213</currValue>
+         <applyValue>000</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+      <Change_Details>
+         <objectType>Application</objectType>
+         <objectName>Application Template1</objectName>
+         <propTab>Option</propTab>
+         <secKey>newtest</secKey>
+         <optionKey>new@123</optionKey>
+         <currValue>102032455</currValue>
+         <applyValue>00</applyValue>
+         <actionType>Modify</actionType>
+      </Change_Details>
+   </CR_Detail>
+   <EmailNotification></EmailNotification>
+   <ApplyNotes></ApplyNotes>
+</XML>
