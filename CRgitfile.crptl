@@ -30,7 +30,7 @@
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>1888WalMart</Section>
+                <Section>1888OnStar</Section>
                 <Key>RoutePoint</Key>
                 <Value>9039</Value>
                 <ActionType>Add</ActionType>
