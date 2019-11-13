@@ -30,7 +30,7 @@
             </prod>
             <Changes>
                 <Tab>Annex</Tab>
-                <Section>NEWCBSTMP</Section>
+                <Section>800BOFATAX</Section>
                 <Key>RoutePoint</Key>
                 <Value>9039</Value>
                 <ActionType>Add</ActionType>
