@@ -31,7 +31,7 @@
      
      	<Changes>
                 <Tab>Annex</Tab>
-                <Section>888CALLPTL</Section>
+                <Section>888CALLPHS</Section>
                 <Key>RoutePoint</Key>
                 <Value>9039</Value>
                 <ActionType>Add</ActionType>
