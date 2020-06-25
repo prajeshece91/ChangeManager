@@ -31,7 +31,7 @@
      
      	<Changes>
                 <Tab>Annex</Tab>
-                <Section>888CalTEST</Section>
+                <Section>888BBTEST</Section>
                 <Key>RoutePoint</Key>
                 <Value>9039</Value>
                 <ActionType>Add</ActionType>
@@ -39,7 +39,7 @@
                      
             <Changes>         
 		<Tab>Annex</Tab>
-		<Section>1888CALTES</Section>
+		<Section>1888BBTES</Section>
 		<Key>DNIS</Key>
 		<Value>2100</Value>
 		<ActionType>Add</ActionType>
